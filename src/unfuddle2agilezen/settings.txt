@@ -1,0 +1,7 @@
+[Unfuddle]
+site: UNFUDDLESITENAME
+user: USERNAME
+pass: PASSWORD
+
+[Agilezen]
+apikey: AGILEZEN API KEY
